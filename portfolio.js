@@ -1,22 +1,22 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	name: "Teja Ranga Rao Paladagu",
+	title: "Hi all, I'm Teja",
 	description:
-		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js, SpringBoot and good understanding of Databases and scalability.",
 	resumeLink:
 		"https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "tejarrpaladagu",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	url: "https://1hanzla100.github.io/",
+	url: "https://tejarrpaladagu.github.io/",
 	linkedin: "https://www.linkedin.com/in/1hanzla100/",
 	github: "https://github.com/1hanzla100",
 	instagram: "https://www.instagram.com/__hanzla100",
